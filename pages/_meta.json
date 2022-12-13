@@ -1,9 +1,13 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
+  "buy-theme": "How To Buy Theme",
   "advanced": "Advanced (A Folder)",
   "about": {
     "title": "About",
+    "type": "page"
+  },
+  "themes": {
+    "title": "Themes",
     "type": "page"
   },
   "contact": {
