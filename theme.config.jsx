@@ -1,7 +1,4 @@
-import React from 'react';
-import { DocsThemeConfig } from 'nextra-theme-docs';
-
-const config: DocsThemeConfig = {
+export default {
   logo: <span>AmirNFT Theme Doc</span>,
   project: {
     link: 'https://github.com/swopno1/theme-doc',
@@ -14,5 +11,3 @@ const config: DocsThemeConfig = {
     text: 'AmirNFT Theme Doc',
   },
 };
-
-export default config;

@@ -1,2 +1,7 @@
 .next
 node_modules
+
+// will remove these comment
+
+.env
+.env.local
