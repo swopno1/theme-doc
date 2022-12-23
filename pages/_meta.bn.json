@@ -1,0 +1,19 @@
+{
+  "index": "সুচনা",
+  "buy-theme": "কিভাবে থিম কিনবেন?",
+  "edit-theme": "থিম কেনার পর কিভাবে এডিট করবেন?",
+  "about": {
+    "title": "সাধারন তথ্য",
+    "type": "page"
+  },
+  "themes": {
+    "title": "থিম",
+    "type": "page"
+  },
+  "contact": {
+    "title": "যোগাযোগ ↗",
+    "type": "page",
+    "href": "https://www.amirnft.com/#contact",
+    "newWindow": true
+  }
+}

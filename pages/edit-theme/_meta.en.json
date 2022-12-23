@@ -1,6 +1,6 @@
 {
-  "index": "Get Started",
-  "branding": "Update Branding Materials (A Folder)",
+  "get-started": "Get Started",
+  "branding": "Update Branding Materials",
   "content": "Change Content",
   "change-api": "Change API Endpoint",
   "change-env": "Change .env File",
